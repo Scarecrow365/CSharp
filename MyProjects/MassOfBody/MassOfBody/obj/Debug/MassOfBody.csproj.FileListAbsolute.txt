@@ -1,0 +1,7 @@
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\MassOfBody\MassOfBody\MassOfBody\bin\Debug\MassOfBody.exe.config
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\MassOfBody\MassOfBody\MassOfBody\bin\Debug\MassOfBody.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\MassOfBody\MassOfBody\MassOfBody\bin\Debug\MassOfBody.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\MassOfBody\MassOfBody\MassOfBody\obj\Debug\MassOfBody.csprojAssemblyReference.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\MassOfBody\MassOfBody\MassOfBody\obj\Debug\MassOfBody.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\MassOfBody\MassOfBody\MassOfBody\obj\Debug\MassOfBody.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\MassOfBody\MassOfBody\MassOfBody\obj\Debug\MassOfBody.pdb

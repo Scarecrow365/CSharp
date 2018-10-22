@@ -1,0 +1,7 @@
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\ShowAllNumbers\ShowAllNumbers\bin\Debug\ShowAllNumbers.exe.config
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\ShowAllNumbers\ShowAllNumbers\bin\Debug\ShowAllNumbers.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\ShowAllNumbers\ShowAllNumbers\bin\Debug\ShowAllNumbers.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\ShowAllNumbers\ShowAllNumbers\obj\Debug\ShowAllNumbers.csprojAssemblyReference.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\ShowAllNumbers\ShowAllNumbers\obj\Debug\ShowAllNumbers.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\ShowAllNumbers\ShowAllNumbers\obj\Debug\ShowAllNumbers.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\ShowAllNumbers\ShowAllNumbers\obj\Debug\ShowAllNumbers.pdb

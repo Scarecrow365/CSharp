@@ -1,0 +1,19 @@
+D:\Visual studio project\turtle\turtle\bin\Debug\turtle.exe.config
+D:\Visual studio project\turtle\turtle\bin\Debug\turtle.exe
+D:\Visual studio project\turtle\turtle\bin\Debug\turtle.pdb
+D:\Visual studio project\turtle\turtle\bin\Debug\SmallBasicLibrary.dll
+D:\Visual studio project\turtle\turtle\bin\Debug\SmallBasicLibrary.xml
+D:\Visual studio project\turtle\turtle\obj\Debug\turtle.csprojResolveAssemblyReference.cache
+D:\Visual studio project\turtle\turtle\obj\Debug\turtle.csproj.CoreCompileInputs.cache
+D:\Visual studio project\turtle\turtle\obj\Debug\turtle.csproj.CopyComplete
+D:\Visual studio project\turtle\turtle\obj\Debug\turtle.exe
+D:\Visual studio project\turtle\turtle\obj\Debug\turtle.pdb
+D:\VS Projects\GB\turtle\turtle\bin\Debug\turtle.exe.config
+D:\VS Projects\GB\turtle\turtle\bin\Debug\turtle.exe
+D:\VS Projects\GB\turtle\turtle\bin\Debug\turtle.pdb
+D:\VS Projects\GB\turtle\turtle\bin\Debug\SmallBasicLibrary.xml
+D:\VS Projects\GB\turtle\turtle\obj\Debug\turtle.csprojAssemblyReference.cache
+D:\VS Projects\GB\turtle\turtle\obj\Debug\turtle.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\turtle\turtle\obj\Debug\turtle.csproj.CopyComplete
+D:\VS Projects\GB\turtle\turtle\obj\Debug\turtle.exe
+D:\VS Projects\GB\turtle\turtle\obj\Debug\turtle.pdb

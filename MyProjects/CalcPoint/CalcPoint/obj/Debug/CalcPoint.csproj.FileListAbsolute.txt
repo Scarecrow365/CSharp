@@ -1,0 +1,7 @@
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\CalcPoint\CalcPoint\bin\Debug\CalcPoint.exe.config
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\CalcPoint\CalcPoint\bin\Debug\CalcPoint.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\CalcPoint\CalcPoint\bin\Debug\CalcPoint.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\CalcPoint\CalcPoint\obj\Debug\CalcPoint.csprojAssemblyReference.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\CalcPoint\CalcPoint\obj\Debug\CalcPoint.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\CalcPoint\CalcPoint\obj\Debug\CalcPoint.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\CalcPoint\CalcPoint\obj\Debug\CalcPoint.pdb

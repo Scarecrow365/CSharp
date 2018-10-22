@@ -1,0 +1,7 @@
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\MinDigit\MinDigit\bin\Debug\MinDigit.exe.config
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\MinDigit\MinDigit\bin\Debug\MinDigit.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\MinDigit\MinDigit\bin\Debug\MinDigit.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\MinDigit\MinDigit\obj\Debug\MinDigit.csprojAssemblyReference.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\MinDigit\MinDigit\obj\Debug\MinDigit.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\MinDigit\MinDigit\obj\Debug\MinDigit.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\MinDigit\MinDigit\obj\Debug\MinDigit.pdb

@@ -1,0 +1,14 @@
+D:\Visual studio project\GB(homework)\Anketa\Anketa\bin\Debug\Anketa.exe.config
+D:\Visual studio project\GB(homework)\Anketa\Anketa\bin\Debug\Anketa.exe
+D:\Visual studio project\GB(homework)\Anketa\Anketa\bin\Debug\Anketa.pdb
+D:\Visual studio project\GB(homework)\Anketa\Anketa\obj\Debug\Anketa.csprojResolveAssemblyReference.cache
+D:\Visual studio project\GB(homework)\Anketa\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+D:\Visual studio project\GB(homework)\Anketa\Anketa\obj\Debug\Anketa.exe
+D:\Visual studio project\GB(homework)\Anketa\Anketa\obj\Debug\Anketa.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\BychkovTask1\Anketa\bin\Debug\Anketa.exe.config
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\BychkovTask1\Anketa\bin\Debug\Anketa.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\BychkovTask1\Anketa\bin\Debug\Anketa.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\BychkovTask1\Anketa\obj\Debug\Anketa.csprojAssemblyReference.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\BychkovTask1\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\BychkovTask1\Anketa\obj\Debug\Anketa.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\BychkovTask1\Anketa\obj\Debug\Anketa.pdb

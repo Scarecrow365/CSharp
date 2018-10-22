@@ -1,0 +1,7 @@
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.exe.config
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\NumberOfDigits\NumberOfDigits\bin\Debug\NumberOfDigits.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.csprojAssemblyReference.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson2\NumberOfDigits\NumberOfDigits\obj\Debug\NumberOfDigits.pdb
