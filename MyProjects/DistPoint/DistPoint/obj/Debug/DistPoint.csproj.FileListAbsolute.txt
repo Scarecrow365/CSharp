@@ -1,0 +1,7 @@
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\DistPoint\DistPoint\bin\Debug\DistPoint.exe.config
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\DistPoint\DistPoint\bin\Debug\DistPoint.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\DistPoint\DistPoint\bin\Debug\DistPoint.pdb
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\DistPoint\DistPoint\obj\Debug\DistPoint.csprojAssemblyReference.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\DistPoint\DistPoint\obj\Debug\DistPoint.csproj.CoreCompileInputs.cache
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\DistPoint\DistPoint\obj\Debug\DistPoint.exe
+D:\VS Projects\GB\GB(homework)\C#1\Lesson1\DistPoint\DistPoint\obj\Debug\DistPoint.pdb
