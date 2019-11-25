@@ -1,0 +1,6 @@
+D:\Projects\VS\Dangerous Space\Dangerous Space\obj\Debug\Dangerous Space.csprojAssemblyReference.cache
+D:\Projects\VS\Dangerous Space\Dangerous Space\bin\Debug\Dangerous Space.exe.config
+D:\Projects\VS\Dangerous Space\Dangerous Space\bin\Debug\Dangerous Space.exe
+D:\Projects\VS\Dangerous Space\Dangerous Space\bin\Debug\Dangerous Space.pdb
+D:\Projects\VS\Dangerous Space\Dangerous Space\obj\Debug\Dangerous Space.exe
+D:\Projects\VS\Dangerous Space\Dangerous Space\obj\Debug\Dangerous Space.pdb
